@@ -1571,3 +1571,12 @@ header.scrolled {
 body {
   cursor: none;
 }
+:root {
+    --bg-primary: #f8fafc;       /* Bright, soft white background */
+    --bg-secondary: #ffffff;     /* Pure white for panels */
+    --text-main: #0f172a;        /* Deep slate text for high readability */
+    --text-muted: #64748b;       /* Muted slate grey for secondary text */
+    --accent: #4f46e5;           /* Premium indigo accent color */
+    --font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
